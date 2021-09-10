@@ -11,7 +11,9 @@
 
 <style>
 .icon{
-  
+    svg{
+    border:1px solid red;
+  }
   }
 </style>
 
