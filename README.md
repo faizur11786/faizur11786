@@ -1,4 +1,4 @@
-Hi 👋 My name is Faizur Rahman
+Hi 👋 I'm Faizur Rahman
 ==============================
 
 Blockchain Developer
