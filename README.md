@@ -6,7 +6,7 @@ Blockchain Developer
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [faizur11786@gmail.com](mailto:faizur11786@gmail.com)
-* 🚀  I'm currently working on [Aqarchain](http://www.aqarchain.io/)
+* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on [Aqarchain](http://www.aqarchain.io/)
 
 <a href="https://www.github.com/faizur11786" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/faizur11786?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
