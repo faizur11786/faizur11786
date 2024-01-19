@@ -59,8 +59,8 @@ src="https://img.shields.io/github/followers/faizur11786?logo=github&style=for-t
 
 <a href="http://www.github.com/faizur11786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faizur11786&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizur11786&show_icons=true&locale=en&layout=compact" alt="faizur11786" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizur11786&show_icons=true&locale=en&layout=compact&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="faizur11786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizur11786&show_icons=true&locale=en" alt="faizur11786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizur11786&show_icons=true&locale=en&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="faizur11786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizur11786&" alt="faizur11786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizur11786&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="faizur11786" /></p>
